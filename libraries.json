@@ -7395,7 +7395,7 @@
   },
   {
     "name": "Azure Architecture Icons",
-    "description": "The complete set of 639 Microsoft Azure architecture icons redrawn in the Excalidraw hand-drawn style, covering compute, networking, storage, databases, identity, AI and machine learning, IoT, security, integration, management and more. Every item is a single grouped element labelled with the service name, so it drops on the canvas as one unit. Converted from the official Microsoft Azure architecture icon package. Not an official Microsoft library.",
+    "description": "The complete set of 641 Microsoft Azure architecture icons redrawn in the Excalidraw hand-drawn style, covering compute, networking, storage, databases, identity, AI and machine learning, IoT, security, integration, management and more. Every item is a single grouped element labelled with the service name, so it drops on the canvas as one unit. Converted from the official Microsoft Azure architecture icon package. Not an official Microsoft library.",
     "authors": [
       {
         "name": "fabmas",
@@ -7407,7 +7407,7 @@
     "source": "fabmas/azure-architecture-icons.excalidrawlib",
     "preview": "fabmas/azure-architecture-icons.png",
     "created": "2026-08-05",
-    "updated": "2026-08-05",
+    "updated": "2026-09-24",
     "version": 2,
     "itemNames": [
       "ABS Member",
@@ -7539,6 +7539,7 @@
       "Azure SQL Edge",
       "Azure SQL Server Stretch Databases",
       "Azure SQL VM",
+      "Azure SRE Agent",
       "Azure Stack HCI Sizer",
       "Azure Storage Mover",
       "Azure Support Center Blue",
@@ -7578,6 +7579,7 @@
       "Ceres",
       "Change Analysis",
       "Client Apps",
+      "Cloud",
       "Cloud Services (Classic)",
       "Cloud Services (extended support)",
       "CloudTest",
